@@ -1,5 +1,5 @@
 # Neural-Network
-My go at a basic neural network in python, completely generalized for the amount of neurons per layers and amount of layers.
+My go at a basic, feed forward neural network in python, completely generalized for the amount of neurons per layers and amount of layers.
 I'm excited to build some fun things from it.
 
 ### Thanks
